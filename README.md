@@ -192,8 +192,9 @@ DELETE /contact/:id      Delete contact
 ```
 GET    /task/list        List all tasks
 GET    /task/:id         Get task by ID
-POST   /task             Create task
+POST   /task/create      Create task
 PUT    /task/:id         Update task
+PATCH  /task/:id/status  Update task status
 DELETE /task/:id         Delete task
 ```
 
