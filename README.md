@@ -38,11 +38,6 @@ This is the baseline project for the **Tulea Health Senior Software Engineer** i
 
 **Prerequisites:** Node.js 20+, PostgreSQL running locally
 
-> **Database setup:** You must create a PostgreSQL database before starting:
-> ```bash
-> createdb simple-vite-db
-> ```
-
 ```bash
 # Clone the repository
 git clone https://github.com/Tulea-Health/clinical-ops-exercise.git
